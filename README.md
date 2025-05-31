@@ -2,6 +2,9 @@
 
 A Python script for Google Chrome dinosaur game, using cv2
 
+![1748687753281](https://github.com/user-attachments/assets/1477d940-58d6-4252-8e39-016454409d73)
+
+
 ## Features
 
 - Real-time obstacle detection and classification
